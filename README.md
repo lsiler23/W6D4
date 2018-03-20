@@ -8,6 +8,8 @@ Users can create or remove HTML elements from the DOM, toggle classes, access th
 
 To include strawberryDOM in your project, simply download the library and include the source in a script tag in the head of your entry html file.
 
+For a testing space, I've provided a sandbox index.html file in this repo!
+
 ## API
 
 ### Core function
