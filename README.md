@@ -1,6 +1,6 @@
 # strawberryDOM
 
-strawberryDOM is a JavaScript DOM manipulation library. Check out a live demo ![here](https://github.com/lsiler23/strawberryDOMDemo).
+strawberryDOM is a JavaScript DOM manipulation library. Check out a live demo [here](https://github.com/lsiler23/strawberryDOMDemo).
 
 Users can create or remove HTML elements from the DOM, toggle classes, access the parents or children of a given element, create or remove event listeners, and send off ajax requests.
 
